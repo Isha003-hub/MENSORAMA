@@ -1,5 +1,5 @@
 # MENSORAMA
-MENSORAMA is dynamic E-commerce Website, where cosmetics and accessories for men are available at one stop platform.
+MENSORAMA is dynamic E-commerce Website, where cosmetics and accessories for men are available at one stop platform. 
 • MENSORAMA will help Customer to save precious time for shopping and exploring all the products at the same time. 
 • MENSORAMA will deliver the products to the customer's doorway which will save their precious time.
 • In MENSORAMA frequent feedback will be provided to visitors/customers of previous customers so they can get a clear review of the products, which they are willing to buy.
