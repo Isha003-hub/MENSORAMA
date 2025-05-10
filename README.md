@@ -5,10 +5,12 @@ MENSORAMA is dynamic E-commerce Website, where cosmetics and accessories for men
 • In MENSORAMA frequent feedback will be provided to visitors/customers of previous customers so they can get a clear review of the products, which they are willing to buy.
 
 ## Technologies Used:
-**Python & Django**: For the backend development, ensuring robust and scalable architecture.  
+**Python & Django**: For the backend development, ensuring robust and scalable architecture.
+
 **JavaScript**: For dynamic content and interactive user interfaces. 
-HTML & CSS: To structure and style the web pages.
-Bootstrap: For responsive design, making the website accessible on various devices.
+
+**HTML & CSS**: To structure and style the web pages. 
+**Bootstrap**: For responsive design, making the website accessible on various devices.
 SQL: As the database to manage user data and product information.
 SMTP Library: To handle email notifications for OTP and order confirmations.
 API Integration: For payment gateway integration to process transactions securely.
